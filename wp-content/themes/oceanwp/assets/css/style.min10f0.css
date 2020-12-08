@@ -4,5 +4,16 @@
     display: none !important
 }
 
+.product-inner .price-wrap {
+    font-size: medium;
+    color: #13aff0;
+    font-weight: 600;
+}
+
+.woocommerce div.product .entry-summary p.price {
+    font-size: larger;
+    font-weight: 600;
+}
+
 
 
