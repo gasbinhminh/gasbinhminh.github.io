@@ -16,4 +16,9 @@
 }
 
 
+@media only screen and (max-width: 876px) {
+    .woocommerce ul.products li.product:not(.product-category) {
+        width: 50% !important;
+    }
+}
 
