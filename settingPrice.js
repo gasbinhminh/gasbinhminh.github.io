@@ -25,7 +25,6 @@ var products =[
         "oldPrice": "",
         "price": "405.000 đ"
     },
-    
     {
         "id": "1090",
         "oldPrice": "",
