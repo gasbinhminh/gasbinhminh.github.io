@@ -89,6 +89,26 @@ var products =[
         "id": "1619",
         "oldPrice": "",
         "price": "280.000 đ"
+    },
+    {
+        "id": "1537",
+        "oldPrice": "",
+        "price": "690.000 đ"
+    },
+    {
+        "id": "1544",
+        "oldPrice": "",
+        "price": "890.000 đ"
+    },
+    {
+        "id": "1075",
+        "oldPrice": "",
+        "price": "1490.000 đ"
+    },
+    {
+        "id": "1065",
+        "oldPrice": "",
+        "price": "1290.000 đ"
     }
 ];
 
