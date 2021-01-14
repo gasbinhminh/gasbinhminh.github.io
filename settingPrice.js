@@ -2,17 +2,17 @@ var products =[
     {
         "id": "104",
         "oldPrice": "",
-        "price": "405.000 đ"
+        "price": "395.000 đ"
     },
     {
         "id": "1088",
         "oldPrice": "",
-        "price": "405.000 đ"
+        "price": "395.000 đ"
     },
     {
         "id": "1257",
         "oldPrice": "",
-        "price": "385.000 đ"
+        "price": "375.000 đ"
     },
     
     {
@@ -23,17 +23,17 @@ var products =[
     {
         "id": "1488",
         "oldPrice": "",
-        "price": "405.000 đ"
+        "price": "395.000 đ"
     },
     {
         "id": "1090",
         "oldPrice": "",
-        "price": "405.000 đ"
+        "price": "395.000 đ"
     },
     {
         "id": "1089",
         "oldPrice": "",
-        "price": "405.000 đ"
+        "price": "395.000 đ"
     },
     {
         "id": "1557",
