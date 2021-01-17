@@ -114,6 +114,11 @@ var products =[
         "id": "1000",
         "oldPrice": "",
         "price": "1.125.000 đ"
+    },
+    {
+        "id": "2000",
+        "oldPrice": "",
+        "price": "884.000 đ"
     }
 ];
 
